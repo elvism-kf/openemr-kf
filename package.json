@@ -127,5 +127,8 @@
   },
   "napa-config": {
     "cache": false
+  },
+  "engines": {
+    "node": "20.x"
   }
 }
